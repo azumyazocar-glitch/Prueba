@@ -84,7 +84,7 @@ def main():
                 print(f"{temperatura}°F = {fahrenheit_celsius(temperatura)} °C")
                 parar()
             elif opcion == "0":
-                print("Bye bye")
+                print("Bye bye Hasta luego")
                 continuar = False
             else:
                 print("Seleccione una opcian valida")
